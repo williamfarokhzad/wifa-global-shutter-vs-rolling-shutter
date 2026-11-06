@@ -1,0 +1,7 @@
+{
+  "rows": 801,
+  "line_interval_us": 10,
+  "exposure_us": 1000,
+  "speed_px_s": 1200,
+  "first_row": "bottom"
+}

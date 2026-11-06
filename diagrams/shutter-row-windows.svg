@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="520" viewBox="0 0 880 520">
+  <rect width="880" height="520" rx="24" fill="#102536"/>
+  <g font-family="DejaVu Sans, sans-serif" fill="#eaf7fb">
+    <text x="50" y="66" font-size="34" font-weight="bold">When does each row see the edge?</text>
+    <text x="50" y="110" font-size="23" fill="#b8d8e4">Three sampled rows. Each bar is an exposure window.</text>
+    <text x="264" y="181" font-size="29" font-weight="bold" text-anchor="middle">Global</text>
+    <text x="659" y="181" font-size="29" font-weight="bold" text-anchor="middle">Rolling</text>
+    <g font-size="24"><text x="50" y="246">Top</text><text x="50" y="313">Middle</text><text x="50" y="380">Bottom</text></g>
+    <g stroke="#507888" stroke-width="2" fill="none">
+      <path d="M162 237H420M162 304H420M162 371H420M509 237H820M509 304H820M509 371H820"/>
+      <path d="M162 427H420l-14 -9m14 9l-14 9M509 427H820l-14 -9m14 9l-14 9"/>
+    </g>
+    <g fill="#74e0c8">
+      <rect x="180" y="220" width="116" height="34" rx="6"/><rect x="180" y="287" width="116" height="34" rx="6"/><rect x="180" y="354" width="116" height="34" rx="6"/>
+    </g>
+    <g fill="#ffbd73">
+      <rect x="520" y="220" width="116" height="34" rx="6"/><rect x="598" y="287" width="116" height="34" rx="6"/><rect x="676" y="354" width="116" height="34" rx="6"/>
+    </g>
+    <g font-size="23" fill="#b8d8e4" text-anchor="middle"><text x="290" y="468">Time</text><text x="663" y="468">Time</text></g>
+  </g>
+</svg>

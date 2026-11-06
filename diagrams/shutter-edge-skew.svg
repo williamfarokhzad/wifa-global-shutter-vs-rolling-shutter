@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="520" viewBox="0 0 880 520">
+  <rect width="880" height="520" rx="24" fill="#102536"/>
+  <g font-family="DejaVu Sans, sans-serif" fill="#eaf7fb">
+    <text x="50" y="66" font-size="34" font-weight="bold">What happens to a vertical edge?</text>
+    <text x="50" y="110" font-size="23" fill="#b8d8e4">Conveyor example: motion to the right, top row first.</text>
+    <g fill="#1c384c" stroke="#507888" stroke-width="2">
+      <rect x="65" y="185" width="338" height="195" rx="12"/><rect x="477" y="185" width="338" height="195" rx="12"/>
+    </g>
+    <g font-size="28" text-anchor="middle" font-weight="bold"><text x="234" y="160">Global</text><text x="646" y="160">Rolling</text></g>
+    <path d="M159 212H177V353H159Z" fill="#74e0c8" opacity=".55"/>
+    <path d="M571 212H589L733 353H715Z" fill="#ffbd73" opacity=".55"/>
+    <path d="M168 212V353" stroke="#74e0c8" stroke-width="4" stroke-dasharray="8 5"/>
+    <path d="M580 212L724 353" stroke="#ffbd73" stroke-width="4" stroke-dasharray="8 5"/>
+    <path d="M580 365H724" stroke="#ffbd73" stroke-width="2" stroke-dasharray="5 3"/>
+    <g font-size="24" text-anchor="middle"><text x="234" y="429" fill="#74e0c8">0 px skew</text><text x="646" y="429" fill="#ffbd73">+9.6 px skew</text></g>
+    <text x="440" y="478" font-size="23" text-anchor="middle" fill="#b8d8e4">Same blur width in both cases: 1.2 px</text>
+  </g>
+</svg>
